@@ -23,8 +23,8 @@ Hệ thống Quản lý Nhân sự là một ứng dụng Web dạng Single Page
 ## 🌐 Danh Sách Các Liên Kết (Links)
 
 1. **Link GitHub Repository:** https://github.com/0947555814cc-a11y/237267_LamChanHung
-2. **Link Docker Hub Backend:** https://hub.docker.com/r/237267lamchanhung/backend
-3. **Link Docker Hub Frontend:** https://hub.docker.com/r/237267lamchanhung/frontend
+2. **Link Docker Hub Backend:** https://hub.docker.com/repository/docker/237267lamchanhung/backend/general
+3. **Link Docker Hub Frontend:** https://hub.docker.com/repository/docker/237267lamchanhung/frontend/general
 4. **Link Render App (Frontend Web):** https://web-237267.onrender.com
 5. **Link Render API (Backend API):** https://api-237267.onrender.com/api/employees
 6. **Link Connection String MongoDB Atlas:** `mongodb+srv://huynhhongha301_db_user:i4MFIKGumIoTjW1U@237267lamchanhung.iv5v7jy.mongodb.net/`
