@@ -1,32 +1,30 @@
-# ĐỀ THI THỰC HÀNH TỔNG HỢP - ĐIỆN TOÁN ĐÁM MÂY
-## HỆ THỐNG QUẢN LÝ NHÂN SỰ (HR MANAGEMENT SYSTEM)
+# 📋 Hệ Thống Quản Lý Nhân Sự (HR Management System)
 
-### 👤 Thông tin sinh viên
-- **Họ và tên:** Lâm Chấn Hưng
-- **MSSV:** 237267
-- **Lớp:** [Nhập tên lớp của bạn vào đây]
-
----
-
-### 📝 1. Mô tả hệ thống
-Hệ thống Quản lý Nhân sự cho phép quản lý hồ sơ nhân viên trực tuyến với các chức năng CRUD (Xem danh sách, Thêm mới, Tìm kiếm, Cập nhật và Xóa nhân viên). Dữ liệu được lưu trữ trên MongoDB Atlas Cloud và ứng dụng được đóng gói Container triển khai trên nền tảng Render.
-
-### 🛠️ 2. Công nghệ sử dụng
-- **Frontend:** React, Vite, Nginx
-- **Backend:** Node.js, Express.js, Mongoose
-- **Database:** MongoDB Atlas
-- **Containerization:** Docker, Docker Hub
-- **Deployment Platform:** Render
+## 👤 Thông Tin Sinh Viên
+* **Họ và tên:** Lâm Chân Hùng
+* **Mã sinh viên (MSSV):** 237267
+* **Lớp:** DH23TIN09
 
 ---
 
-### 💻 3. Hướng dẫn chạy ở môi trường phát triển (Local/Codespaces)
+## 📝 Mô Tả Hệ Thống
+Hệ thống Quản lý Nhân sự là một ứng dụng Web dạng Single Page Application (SPA) hỗ trợ quản lý hồ sơ nhân viên trực tuyến với đầy đủ các chức năng CRUD (Xem danh sách, Thêm mới, Tìm kiếm, Cập nhật và Xóa nhân viên). Dữ liệu được lưu trữ trên MongoDB Atlas Cloud và ứng dụng được đóng gói container triển khai trên nền tảng Render.
 
+---
 
-## Docker Hub Repositories
-- Backend Image: https://hub.docker.com/r/237267lamchanhung/backend
-- Frontend Image: https://hub.docker.com/r/237267lamchanhung/frontend
+## 🛠️ Công Nghệ Sử Dụng
+* **Frontend:** React, Vite, Nginx, Tailwind CSS, Axios
+* **Backend:** Node.js, Express.js, Mongoose
+* **Cơ sở dữ liệu:** MongoDB Atlas
+* **Container hóa & Triển khai:** Docker, Docker Hub, Render Cloud Platform
 
-## Render Live Services
-- Backend API: https://api-237267.onrender.com
-- Frontend Web: https://web-237267.onrender.com
+---
+
+## 🌐 Danh Sách Các Liên Kết (Links)
+
+1. **Link GitHub Repository:** https://github.com/0947555814cc-a11y/237267_LamChanHung
+2. **Link Docker Hub Backend:** https://hub.docker.com/r/237267lamchanhung/backend
+3. **Link Docker Hub Frontend:** https://hub.docker.com/r/237267lamchanhung/frontend
+4. **Link Render App (Frontend Web):** https://web-237267.onrender.com
+5. **Link Render API (Backend API):** https://api-237267.onrender.com/api/employees
+6. **Link Connection String MongoDB Atlas:** `mongodb+srv://huynhhongha301_db_user:i4MFIKGumIoTjW1U@237267lamchanhung.iv5v7jy.mongodb.net/`
