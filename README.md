@@ -1,7 +1,7 @@
 # 📋 Hệ Thống Quản Lý Nhân Sự (HR Management System)
 
 ## 👤 Thông Tin Sinh Viên
-* **Họ và tên:** Lâm Chân Hùng
+* **Họ và tên:** Lâm Chấn Hưng
 * **Mã sinh viên (MSSV):** 237267
 * **Lớp:** DH23TIN09
 
