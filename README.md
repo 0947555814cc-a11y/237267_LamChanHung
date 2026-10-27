@@ -25,3 +25,4 @@ Hệ thống Quản lý Nhân sự cho phép quản lý hồ sơ nhân viên tr�
 
 ## Docker Hub Repositories
 - Backend Image: https://hub.docker.com/r/237267lamchanhung/backend
+- Frontend Image: https://hub.docker.com/r/237267lamchanhung/frontend
