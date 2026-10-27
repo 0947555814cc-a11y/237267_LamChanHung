@@ -22,3 +22,6 @@ Hệ thống Quản lý Nhân sự cho phép quản lý hồ sơ nhân viên tr�
 
 ### 💻 3. Hướng dẫn chạy ở môi trường phát triển (Local/Codespaces)
 
+
+## Docker Hub Repositories
+- Backend Image: https://hub.docker.com/r/237267lamchanhung/backend
